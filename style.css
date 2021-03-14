@@ -227,3 +227,8 @@ footer p{
     }
 }
 
+@media screen and (max-width: 364px){
+    footer p{
+        text-align: center;
+    }
+}
